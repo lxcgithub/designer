@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Downloads-design.iml" filepath="$PROJECT_DIR$/Downloads-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design.iml" filepath="$PROJECT_DIR$/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/design-app.iml" filepath="$PROJECT_DIR$/app/design-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/designer.iml" filepath="$PROJECT_DIR$/designer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mode/mode.iml" filepath="$PROJECT_DIR$/mode/mode.iml" />
     </modules>
   </component>
 </project>
